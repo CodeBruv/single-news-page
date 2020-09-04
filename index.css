@@ -1,0 +1,36 @@
+body {
+	background-color: hue;
+	border: 15px solid #ffae18;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 700px;
+	width: 60%;
+	font-family: Garamond;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(0, 3, 0, 0), rgba(0, 75, 0, 75), rgba(0, 3, 0, 0))
+}
+
+h2 {
+	color: #18763f;
+	font-size: 2.0rem;
+}
+
+.quote {
+	border-left: 4px solid green;
+	padding-left: 5px;
+}
+
+.date {
+	text-transform: uppercase;
+	color: green;
+	letter-spacing: 0.2rem;
+	margin-top: 20px;
+}
+
+.post {
+	margin-bottom: 20px;
+}
